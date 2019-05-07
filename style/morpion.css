@@ -1,0 +1,29 @@
+
+section {
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+h1 {
+    width: 100%;
+    text-align: center;
+    color: red;
+    font-size: 40px;
+}
+.case {
+    width: 70px;
+    height: 70px;
+    border: black solid 3px;
+    font-weight: bold;
+    text-align: center;
+    margin: 5px;
+    font-size: 40px;
+    
+    
+}
+
+div {
+    margin: 30px;
+    font-weight: bold;
+}
